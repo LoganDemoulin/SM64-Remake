@@ -1,2 +1,2 @@
 # SM64-Remake
-Super Mario 64 van Logn en Jasdeep
+Super Mario 64 van Logan en Jasdeep
